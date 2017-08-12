@@ -1,0 +1,3 @@
+# Module adobeaddressverify
+# RPC service class, partial path of RPC policy file
+com.adobe.verify.client.GreetingService, 5D13F6B2F9DDBDDD0731D82B1BF948DF.gwt.rpc

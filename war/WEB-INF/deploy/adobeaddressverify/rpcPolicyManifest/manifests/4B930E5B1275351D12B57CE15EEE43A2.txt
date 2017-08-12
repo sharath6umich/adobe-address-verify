@@ -1,0 +1,2 @@
+serviceClass: com.adobe.verify.client.GreetingService
+path: 5D13F6B2F9DDBDDD0731D82B1BF948DF.gwt.rpc
