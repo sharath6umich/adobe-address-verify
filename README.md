@@ -4,12 +4,16 @@ Built at api to verify a bulk of addressesfrom a spreadsheet and get the longitu
 
 
 Simple command line execution:
+==============================
 
 javac address-verify.java
 
 java address-verify C:\Users<your name>\Downloads\test.csv
 
+
+
 Notes on Google Sheets API:
+===============================
 
 •	Minimal calls to sheets api to get the address data from the spreadsheet
 
@@ -19,7 +23,9 @@ Notes on Google Sheets API:
 
 •	Basic checking of data integrity - Checking number of columns and column names
 
+
 Google Geocoding API:
+================================
 
 •	Limit 1: 10 requests per second
 
