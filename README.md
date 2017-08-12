@@ -2,6 +2,7 @@
 
 Built at api to verify a bulk of addressesfrom a spreadsheet and get the longitute and lattitude of the address by leveraging Google's geolocation api
 
+Simple and intuitive design, minimal http requests, optimal performance were my primary focus on designing the application 
 
 Simple command line execution:
 ==============================
